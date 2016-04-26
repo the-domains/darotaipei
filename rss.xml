@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DAROTaipei]]></title>
         <description><![CDATA[DAROTaipei]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/darotaipei/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 05:28:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 06:21:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/darotaipei/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Yellow Claw is coming to OMNI this Friday, and this is what you need to read before attending the party.</p>]]></description>
+            <link>https://thegrid.ai/darotaipei/yellow-claw-is-coming-to-omni-this-friday-and-this-is-what/index.html</link>
+            <guid isPermaLink="false">03458075-2a10-4061-b060-ab6082e986b7</guid>
+            <pubDate>Tue, 26 Apr 2016 06:20:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4318006-38ec-412d-8bd0-6d02a79eddd4.jpg">]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/darotaipei/hello-world/index.html</link>
             <guid isPermaLink="false">c48a5ea3-80dc-47b6-bc0d-54f54457346e</guid>
             <pubDate>Wed, 09 Mar 2016 05:28:23 GMT</pubDate>
         </item>
