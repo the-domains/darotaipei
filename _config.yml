@@ -1,6 +1,6 @@
 name: DAROTaipei
 favicon: null
-layout_spectrum: 0.53338
+layout_spectrum: 0.7462
 typography_spectrum: 0.8376782573759556
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.09509144350886345
+  brandStrength: 0.5
   lightness: 0.5850051084998995
   saturation: 0.5753636236768216
   rhythmicContrast: 0.7741224456112832
